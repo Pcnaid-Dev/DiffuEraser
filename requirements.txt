@@ -1,4 +1,4 @@
-torch==2.3.1
+torch==2.7.0
 torchvision==0.18.1
 torchaudio==2.3.1
 diffusers==0.29.2
@@ -6,7 +6,7 @@ accelerate==0.25.0
 opencv-python==4.9.0.80
 imageio==2.34.1
 matplotlib
-transformers==4.41.1
+transformers==4.50.0
 einops==0.8.0
 datasets==2.19.1
 numpy==1.26.4
